@@ -56,7 +56,7 @@
 </div>
 
 # What is ProppyJS?
-
+https://proppyjs.com
 ProppyJS is a tiny `1.5kB` JavaScript library for composing props (object that components receive to render themselves).
 
 It comes with various integration packages giving you the freedom to use it popular rendering libraries.
